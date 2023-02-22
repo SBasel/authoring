@@ -13,7 +13,7 @@
 <https://help.github.com/en>
 
 #### Internal link
-<bilder/1.jpg>
+[Internal link](bilder/1.jpg)
 
 #### Image
 ![bild](/bilder/1.jpg)
