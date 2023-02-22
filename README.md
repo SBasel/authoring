@@ -15,5 +15,5 @@
 #### Internal link
 [bilder/1.jpg]
 
-<a name="images"></a>
-![Internal link](/bilder/1.jpg)
+#### Image
+![bild](/bilder/1.jpg)
