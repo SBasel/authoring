@@ -1,3 +1,3 @@
 # authoring
 <a name="images"></a>
-![Bild](/1.jpg)
+![Bild](/bilder/1.jpg)
