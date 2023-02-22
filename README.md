@@ -3,13 +3,13 @@
 ## Github Flavoured Markdown
 
 ### Checkboxes
-* [ ] [External Link](External link)
+* [ ] [External Link](#extlink)
 * [ ] Internal Link
 * [ ] Images
 * [ ] Emojis
 * [ ] Tables
 
-#### External link
+#### External link <a name="extlink"></a>
 <https://help.github.com/en>
 
 #### Internal link
