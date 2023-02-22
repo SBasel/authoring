@@ -1,2 +1,2 @@
 # authoring
-![Bild](Bilder/1.jpg)
+<imgage scr="/Bilder/1.jpg" alt="Bild">
