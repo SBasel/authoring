@@ -1,2 +1,2 @@
 # authoring
-![Bild] (/Work/Bilder/1.jpg)
+![Bild] (/1.jpg)
